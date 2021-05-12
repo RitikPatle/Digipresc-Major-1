@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006459534542",
+    "project_id": "drtalk-mp2",
+    "storage_bucket": "drtalk-mp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006459534542:android:f4e2507ab8dbac3c3ca49f",
+        "android_client_info": {
+          "package_name": "com.rpapps.drtalk_majprojtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006459534542-bsntjsibfh71ilh94hetb797rnan0rjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rpapps.drtalk_majprojtwo",
+            "certificate_hash": "d54739962b50fe311ec84f1997940c8e31124215"
+          }
+        },
+        {
+          "client_id": "1006459534542-5fq2rr57q3hap9n9dtfftis04mtlo6o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAG43h4wPHsvSaiG68uMC5qiPDRuX4iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006459534542-5fq2rr57q3hap9n9dtfftis04mtlo6o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
